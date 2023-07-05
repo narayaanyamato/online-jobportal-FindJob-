@@ -1,3 +1,7 @@
+FindJob - Your Ultimate Job Portal for Seamless Job Search and Hiring
+
+ Find your dream job or top talent effortlessly with FindJob, the leading online job portal. Discover thousands of job openings across industries and locations, connecting job seekers with top employers. Register your company for free, browse our talented pool of candidates, and easily post and track job applications. Create a profile, apply with a single click, and start a successful career today. Browse jobs, apply, and get interviewed on FindJob - your go-to destination for a seamless job search experience.
+
 ![screenshot (9)](https://github.com/narayaanyamato/online-jobportal-FindJob-/assets/84263152/cfaf4c73-3e48-46f8-b22f-e40d45bafee1)# online-jobportal-FindJob
 
 FindJob (http://finfjob.byethost12.com/jobportal/index) is an innovative online job portal that leverages cutting-edge technology to help individuals find their dream jobs and connect employers with talented candidates. With a user-friendly interface and advanced features, FindJob streamlines the job search process, making it effortless and efficient.
@@ -19,7 +23,7 @@ The FindJob website (http://finfjob.byethost12.com/jobportal/index) serves as th
 ![screenshot (8)](https://github.com/narayaanyamato/online-jobportal-FindJob-/assets/84263152/e0a06e56-682f-45ed-9bd6-c3cf113005a8)
 ![screenshot (9)](https://github.com/narayaanyamato/online-jobportal-FindJob-/assets/84263152/8fb214a6-8879-4801-abc6-b9f019fc500f)
 ![screenshot (10)](https://github.com/narayaanyamato/online-jobportal-FindJob-/assets/84263152/19d869e2-5d76-4673-beb6-7abee962e0db)
-![screenshot (11)](https://github.com/narayaanyamato/online-jobportal-FindJob-/![screenshot (12)](https://github.com/narayaanyamato/online-jobportal-FindJob-/assets/84263152/aaecb56a-f0c4-45c3-96ab-12d6f356df6c)
+![screenshot (11)](https://github.com/narayaanyamato/online-jobportal-FindJob-/assets/84263152/aaecb56a-f0c4-45c3-96ab-12d6f356df6c)
 assets/84263152/95a5abc1-67e9-4019-9f23-ada94ad9235a)
 ![screenshot](https://github.com/narayaanyamato/online-jobportal-FindJob-/assets/84263152/65bc8c9f-addf-4173-8dd7-59eb03d378f9)
 
